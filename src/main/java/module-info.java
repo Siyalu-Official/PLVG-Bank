@@ -4,7 +4,7 @@ module com.plvg.bnk {
     requires transitive javafx.graphics;
     requires transitive java.sql;
     requires org.xerial.sqlitejdbc;
-    // requires transitive de.jensd.fontawesomefx;
+    requires de.jensd.fx.glyphs.fontawesome;
 
     opens com.plvg.bnk to javafx.fxml;
 
