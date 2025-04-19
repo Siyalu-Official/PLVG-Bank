@@ -1,5 +1,7 @@
 # PLVG-Bank
 
+![plvg-snap](src/main/resources/com/plvg/bnk/plvg-snap.png)
+
 PLVG-Bank is a project primarily developed for **Siyalu**, focusing on delivering robust banking solutions. This project is built using **Maven** for Java, ensuring a modular and efficient development process.
 
 ## Features
@@ -23,6 +25,6 @@ PLVG-Bank is a project primarily developed for **Siyalu**, focusing on deliverin
 
 ## About Siyalu
 
-Siyalu is committed to producing farm product but, PLVG-Bank is one of its key projects, designed to enhance user experience and operational efficiency in the banking domain.
+Siyalu is committed to producing farm product but, PLVG-Bank is its subsidiary, designed to enhance user experience and operational efficiency in the banking domain.
 
-Feel free to explore!
+Feel free to explore!❤️
